@@ -2,6 +2,7 @@
 # Configuración básica.
   
    Nombre del administrador:
+
 `git config --global user.name "Antonio M.Durán Rosal"`
   
    Correo electronico:
@@ -18,6 +19,6 @@
   
    Listado de la configuración:
     
-    `got config --list`
+   `got config --list`
   
  
