@@ -1,4 +1,7 @@
 # GIT
+
+!(https://az787680.vo.msecnd.net/user/jackeir/1506/2015629212127938.png)
+
 ## Configuración básica ##
   
    Nombre del administrador:
@@ -64,6 +67,10 @@
   Ver los cambios en el directorio:
   
   `git status`
+  
+  ## Comandos basicos III
+  
+  Ver diferencia  entre ficcheros en el directorio y el repositorio
 
   
   
