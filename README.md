@@ -1,6 +1,7 @@
 
 # Configuración básica
-## Nouu
-### `git config --global user.name "Antonio M.Durán Rosal"`
-&nbsp
-## Correo electronico
+  Nombre del administrador:
+`git config --global user.name "Antonio M.Durán Rosal"`
+  Correo electronico:
+  `git config --global user.email udaran@uco.es`
+ 
