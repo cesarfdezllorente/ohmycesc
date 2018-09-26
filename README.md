@@ -1,7 +1,4 @@
 
-**Hola buenas tardes**
-*Yo me llamo ralf*
-### *Manolito pies de plata*
-# *Manolito pies de plata*
-> Manolito pies de plata <
-`Esto es codigo en linea`
+**Configuración básica**
+  Nombre del administrador:
+  ´**git config --global user.name "Antonio M.Durán Rosal"**`
