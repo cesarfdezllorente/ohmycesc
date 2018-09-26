@@ -27,6 +27,8 @@
   
   `git init`
   
+  Agregar cambios del area de *standing*
+  
   
   
   
