@@ -1,10 +1,10 @@
 
 # Configuración básica.
   
-    Nombre del administrador:
+   Nombre del administrador:
 `git config --global user.name "Antonio M.Durán Rosal"`
   
-    Correo electronico:
+   Correo electronico:
   
   `git config --global user.email udaran@uco.es`
   
@@ -16,7 +16,7 @@
   
   `git config --global color.ui true`
   
-    Listado de la configuración:
+   Listado de la configuración:
     
     `got config --list`
   
