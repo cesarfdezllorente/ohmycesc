@@ -27,7 +27,23 @@
   
   `git init`
   
-  Agregar cambios del area de *standing*
+  Agregar cambios del area de *standing*:
+  
+  `git add`
+  
+  Validar cambios en el repositorio:
+  
+  `git commit -m "Mensaje"`
+  
+  Hacer los dos pasos anteriores en uno:
+  
+  `git commit -am "Mensaje"`
+  
+  Historial de commits:
+  
+  `git log`
+  
+  
   
   
   
