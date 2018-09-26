@@ -1,5 +1,5 @@
 # GIT
-## Configuración básica
+## Configuración básica ##
   
    Nombre del administrador:
 
