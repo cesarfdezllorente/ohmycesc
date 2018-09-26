@@ -21,7 +21,7 @@
     
    `got config --list`
   
- # Comandos basicos I
+ ## Comandos basicos I
  
    Iniciar repositorio en un directorio:
   
@@ -43,7 +43,7 @@
   
   `git log`
   
-  # Comandos Basicos II
+ ## Comandos Basicos II
   
   Ayuda del listado anterior:
   
