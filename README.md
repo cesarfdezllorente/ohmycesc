@@ -1,6 +1,5 @@
 # GIT
 
-!(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjalZ64ptjdAhVDnRoKHRGVBhkQjRx6BAgBEAU&url=https%3A%2F%2Fdotblogs.com.tw%2Fjackeir%2F2015%2F06%2F29%2F151680&psig=AOvVaw2b9E-LaWZYjrI9POF1pBuv&ust=1538038497834955)
 
 ## Configuración básica ##
   
@@ -46,7 +45,7 @@
   
   `git log`
   
- ## Comandos Basicos II
+ ## Comandos Básicos II
   
   Ayuda del listado anterior:
   
@@ -68,9 +67,45 @@
   
   `git status`
   
-  ## Comandos basicos III
+  ## Comandos Básicos III
   
-  Ver diferencia  entre ficcheros en el directorio y el repositorio
+  Ver diferencia  entre ficheros en el directorio y el repositorio de git:
+  
+  `git diff`
+  
+  Ver diferencia entre ficheros en el *staging* y el repositorio:
+  
+  `git diff --stagged`
+  
+  Eliminar archivos:
+  
+  `git rm archivo`
+  
+  `git commit -m "Mensaje"`
+  
+  ## Comandos Básicos IV
+  
+  Deshacer cambios con git:
+  
+  `git checkout -- nombre_fichero`
+  
+  Retirar archivos del *staging*:
+  
+  `git reset HEAD nombre_fichero`
+  
+  Completar último commit:
+  
+  `git commit --amend -m "Mensaje"`
+  
+  Recuperar versión de un fichero de commit antiguo:
+  
+  `git ckeckout <id_commit> -- nombre_archivo`
+  
+  Revertir un commit:
+  
+  `git revert <id_commit>`
+  
+  
 
   
   
