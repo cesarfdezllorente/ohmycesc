@@ -1,5 +1,5 @@
 
-# Configuración básica.
+# Configuración básica
   
    Nombre del administrador:
 
@@ -21,4 +21,12 @@
     
    `got config --list`
   
+ # Comandos basicos I
  
+   Iniciar repositorio en un directorio:
+  
+  `git init`
+  
+  
+  
+  
