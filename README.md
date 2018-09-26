@@ -44,7 +44,7 @@
   `git log`
   
   
-  !(https://lh6.googleusercontent.com/Ry--MLieGMXkpHMcJGe9NhyGulLIXpXRE5xQB-_rt_u4BEzv06YNrBOHA3iXjUCoHTGPPdH1m4rDoF_tw9xlDaZgluV9pFsP9U4dU9p3OP4cHMxcTDx8jEksJevNUYbSMw)
+  !(git-github-1414373606.png)
   
   
   
