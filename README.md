@@ -1,14 +1,8 @@
 # GIT
-
-![](http://1.bp.blogspot.com/-0ESPAhDYGQ4/ThMfRvj9FGI/AAAAAAAAAMM/Gifzuv9wwEA/s1600/git%2Blocal%2Boperations.jpg)
-
-## Configuración básica ##
   
-   Nombre del administrador:
-
-`git config --global user.name "Antonio M.Durán Rosal"                                                                          `
+ ## Configuracion basica
   
-   Correo electronico:
+  Nombre del administrador:
   
   `git config --global user.email udaran@uco.es`
   
