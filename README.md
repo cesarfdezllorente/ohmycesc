@@ -1,6 +1,6 @@
 # GIT
 
-!(https://az787680.vo.msecnd.net/user/jackeir/1506/2015629212127938.png)
+!(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjalZ64ptjdAhVDnRoKHRGVBhkQjRx6BAgBEAU&url=https%3A%2F%2Fdotblogs.com.tw%2Fjackeir%2F2015%2F06%2F29%2F151680&psig=AOvVaw2b9E-LaWZYjrI9POF1pBuv&ust=1538038497834955)
 
 ## Configuración básica ##
   
