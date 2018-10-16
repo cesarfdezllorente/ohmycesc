@@ -1,4 +1,4 @@
-# **(ANVERSO)**
+# (ANVERSO)
 
 ## **ID:003 *Mostrar Alumno* **
 
