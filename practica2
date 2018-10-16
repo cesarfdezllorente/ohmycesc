@@ -1,3 +1,19 @@
 # **(ANVERSO)**
 
+## **ID:003 *Mostrar Alumno* **
 
+'Mostrara la informacion de diferentes maneras,acendente/descendente'
+
+**Prioridad**:1
+
+# **(REVERSO)**
+
+  *Se puede mostrar los datos de cada alumno por orden numerico del DNI(sin contar la letra),curso mas alto matriculado o de forma ascendente/descendente.
+  
+  *Se puede mostrar por equipos.
+  
+  *Se puede mostrar todo o solo lo que queramos de los expresado en las caracteristicas anteriores.
+  
+  *Cuando se quiera mostrar un usuario se ha de crear un fichero Marckdown o html, ademas de mostrarlo por linea de comando.
+  
+  
