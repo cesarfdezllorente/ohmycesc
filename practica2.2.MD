@@ -10,11 +10,11 @@
 
 **Precondiciones**
 
-1.El alumno no debe existir en la base de datos
+1. El alumno no debe existir en la base de datos
 
-2.No debe de haber mas de 150 alumnos
+2. No debe de haber mas de 150 alumnos
 
-3.Solo puede haber ,si es que lo hay, un solo lider
+3. Solo puede haber ,si es que lo hay, un solo lider
 
 **Flujo principal** 
 
@@ -36,7 +36,7 @@
 
   2. Si se desea establecer un lider en un grupo que ya lo tiene , se mostrara error diciendo que el grupo ya tiene lider y que para cambiarlo debe llamar a modificar para cambiar el lider del grupo.
 
-  3.Si el usuario desea introducirlos , el sistema  
+  3. Si el usuario desea introducirlos , el sistema  
 
-  4.Si el usuario no desea,
+  4. Si el usuario no desea,
 
