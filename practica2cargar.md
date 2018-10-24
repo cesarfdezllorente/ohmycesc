@@ -27,3 +27,4 @@
 **Flujos alternativos**
 
   1. Si hay algun error al abrir el fichero se mostrara mensaje de error
+ç
