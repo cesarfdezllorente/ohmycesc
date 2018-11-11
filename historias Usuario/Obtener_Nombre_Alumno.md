@@ -1,11 +1,11 @@
-# (Anverso)
+# (ANVERSO)
 
-**ID**:
+## ID:012   *Obtener Nombre de un Alumno*
 
-1. Como usuario quiero poder utilizar el nombre del alumno que esta en la Base de Datos.
+`Como usuario quiero poder utilizar el nombre de un  alumno que está en la Base de Datos`
+ 
+  **Prioridad**: 6
+  
+# (REVERSO)
 
-**Prioridad**:
-
-# (Reverso)
-
-1. Solo se muestra el nombre de un alumno.
+* Se retorna el nombre de un alumno de la Base de Datos.
