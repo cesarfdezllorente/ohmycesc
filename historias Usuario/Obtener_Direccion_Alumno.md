@@ -1,9 +1,9 @@
-# (Anverso)
+# (ANVERSO)
 
-**ID:
+## ID:017   *Obtener Dirección de un Alumno*
 
-1. Como usuario quiero poder utilizar la  Dirección del alumno que esta en la Base de Datos
+`Como usuario quiero poder utilizar la  Dirección del alumno que está en la Base de Datos`
  
-# (Reverso)
+# (REVERSO)
 
-1. Solo muestra una Dirección de un alumno de la Base de Datos.
+1. Se retorna la Dirección de un alumno de la Base de Datos.
