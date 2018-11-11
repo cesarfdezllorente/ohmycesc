@@ -5,6 +5,7 @@
 **Breve descripcion**:El sistema obtiene la Fecha de Nacimiento de un alumno.
 
 **Acotres principales**:Profesor
+
 **Actores secundarios**:Alumno
 
 **Precondiciones**
