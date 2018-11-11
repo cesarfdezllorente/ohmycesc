@@ -1,4 +1,4 @@
-# *Obterner Apellidos de un  Alumno*
+# *Obtener Apellidos de un  Alumno*
 
 **ID**:013
 
