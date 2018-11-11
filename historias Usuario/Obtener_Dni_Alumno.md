@@ -1,9 +1,9 @@
-# (Anverso)
+# (ANVERSO)
 
-**ID:
+## ID:014   *Obtener DNI de un Alumno*
 
-1. Como usuario quiero poder utilizar el DNI del alumno que esta en la Base de Datos
+`Como usuario quiero poder utilizar el Dni del alumno que está en la Base de Datos`
  
-# (Reverso)
+# (REVERSO)
 
-1. Solo muestra un DNI de un alumno de la Base de Datos.
+* Se retorna el Dni de un alumno de la Base de Datos.
