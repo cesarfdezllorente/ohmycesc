@@ -6,7 +6,7 @@
 
 **Actores principales**:Profesor
 
-**Actores secundarios**:Sistema 
+**Actores secundarios**:Alumno 
 
 **Precondiciones**
 
