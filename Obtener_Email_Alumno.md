@@ -5,6 +5,7 @@
 **Breve descripcion**:El sistema obtiene el Email de un alumno.
 
 **Acotres principales**:Profesor
+
 **Actores secundarios**:Sistema
 
 **Precondiciones**
