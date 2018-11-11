@@ -5,6 +5,7 @@
 **Breve descripcion**:El sistema obtiene el Equipo al que pertenece un alumno.
 
 **Acotres principales**:Profesor
+
 **Actores secundarios**:Alumno
 
 **Precondiciones**
