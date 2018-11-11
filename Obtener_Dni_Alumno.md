@@ -1,11 +1,11 @@
-# 'Obtener DNI'
+# *Obtener DNI Alumno*
 
-**ID**:
+**ID**:014
 
 **Breve descripcion**:El sistema obtiene el DNI de un alumno.
 
 **Acotres principales**:Profesor
-**Actores secundarios**:Sistema
+**Actores secundarios**:Alumno
 
 **Precondiciones**
 
@@ -13,7 +13,7 @@
 
 **Flujo principal**
 
-1. El caso de uso comienza cuando el sistema necesita hacer uso del DNI del  alunbi que se encuentra en la Base de Datos.
+1. El caso de uso comienza cuando el sistema necesita hacer uso del DNI del  alumno  que se encuentra en la Base de Datos.
 
 **Post-Condiciones**:
 
