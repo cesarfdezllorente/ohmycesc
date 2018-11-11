@@ -5,6 +5,7 @@
 **Breve descripcion**:El sistema obtiene el Curso Mayor de un alumno.
 
 **Acotres principales**:Profesor
+
 **Actores secundarios**:Alumno
 
 **Precondiciones**
