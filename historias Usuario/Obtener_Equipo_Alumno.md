@@ -1,10 +1,11 @@
+# (ANVERSO)
 
-# (Anverso)
+## ID:020   *Obtener Equipo de un Alumno*
 
-**ID:
-
-1. Como usuario quiero poder utilizar el Equipo del alumno que esta en la Base de Datos
+`Como usuario quiero poder utilizar el numero del equipo del alumno que está en la Base de Datos`
  
-# (Reverso)
+  **Prioridad**: 6
+  
+# (REVERSO)
 
-1. Solo muestra el Equipo de un alumno de la Base de Datos.
+* Se retorna el numero del equipo al que pertenece un alumno de la Base de Datos.
