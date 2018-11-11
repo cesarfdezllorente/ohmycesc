@@ -2,7 +2,7 @@
 
 ## ID:016   *Obtener Teléfono de un Alumno*
 
-`Como usuario quiero poder utilizar el tele¡éfono de un  alumno que está en la Base de Datos`
+`Como usuario quiero poder utilizar el teleéfono de un  alumno que está en la Base de Datos`
  
   **Prioridad**: 6
   
