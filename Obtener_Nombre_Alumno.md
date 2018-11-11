@@ -1,12 +1,12 @@
-# 'Obtener Nombre Alumno'
+# *Obtener Nombre Alumno*
 
-**ID**:
+**ID**:012
 
 **Breve descripcion**:El sistema obtiene el nombre de un alumno
 
 **Actores principales**:Profesor
 
-**Actores secundarios**:Sistema
+**Actores secundarios**:Alumno
 
 **Precondiciones**
 
