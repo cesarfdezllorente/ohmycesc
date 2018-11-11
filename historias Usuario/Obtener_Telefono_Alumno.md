@@ -1,9 +1,11 @@
-# (Anverso)
+# (ANVERSO)
 
-**ID:
+## ID:016   *Obtener Teléfono de un Alumno*
 
-1. Como usuario quiero poder utilizar el  Teléfono del alumno que esta en la Base de Datos
+`Como usuario quiero poder utilizar el tele¡éfono de un  alumno que está en la Base de Datos`
  
-# (Reverso)
+  **Prioridad**: 6
+  
+# (REVERSO)
 
-1. Solo muestra un Teléfono de un alumno de la Base de Datos.
+* Se retorna el teléfono de un alumno de la Base de Datos.
