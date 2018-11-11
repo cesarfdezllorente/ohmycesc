@@ -1,15 +1,15 @@
-# 'Obtener Curso Mayor'
+# *Obtener Curso Mayor*
 
-**ID**:
+**ID**:018
 
 **Breve descripcion**:El sistema obtiene el Curso Mayor de un alumno.
 
 **Acotres principales**:Profesor
-**Actores secundarios**:Sistema
+**Actores secundarios**:Alumno
 
 **Precondiciones**
 
-1.El Curso Mayor debe de existir en la base de datos.
+1.Alumno debe de existir en la base de datos.
 
 **Flujo principal**
 
@@ -17,5 +17,5 @@
 
 **Post-Condiciones**:
 
-1. La funcion retorna el Curso Mayor del alumno introducido anteriormente.
+1. La función retorna el Curso Mayor del alumno introducido anteriormente.
 
