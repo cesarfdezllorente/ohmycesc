@@ -1,9 +1,11 @@
-# (Anverso)
+# (ANVERSO)
 
-**ID:
+## ID:015   *Obtener Fecha Nacimiento de un Alumno*
 
-1. Como usuario quiero poder utilizar la Fecha de Nacimiento del alumno que esta en la Base de Datos
+`Como usuario quiero poder utilizar la Fecha de Nacimiento de un  alumno que está en la Base de Datos`
  
-# (Reverso)
+  **Prioridad**: 6
+  
+# (REVERSO)
 
-1. Solo muestra una Fecha de Nacimiento de un alumno de la Base de Datos.
+* Se retorna la Fecha de Nacimiento de un alumno de la Base de Datos.
