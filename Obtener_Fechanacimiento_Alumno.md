@@ -1,15 +1,15 @@
-# 'Obtener Fecha de Nacimiento'
+# *Obtener Fecha de Nacimiento Alumno*
 
-**ID**:
+**ID**:015
 
 **Breve descripcion**:El sistema obtiene la Fecha de Nacimiento de un alumno.
 
 **Acotres principales**:Profesor
-**Actores secundarios**:Sistema
+**Actores secundarios**:Alumno
 
 **Precondiciones**
 
-1.La fecha de ancimiento debe de existir en la base de datos.
+1.La fecha de nacimiento debe de haber sido introducida en la base de datos.
 
 **Flujo principal**
 
