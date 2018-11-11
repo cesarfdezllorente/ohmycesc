@@ -1,8 +1,10 @@
 # (ANVERSO)
 
-## ID: 018      *Obtener Curso Mayor del  Alumno
+## ID: 018      *Obtener Curso Mayor del  Alumno*
 
 `Como usuario quiero poder utilizar el  Curso Mayor del alumno que esta en la Base de Datos`
+
+
 **Prioridad**: 6
  
 # (REVERSO)
