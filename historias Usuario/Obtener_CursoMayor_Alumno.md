@@ -1,9 +1,10 @@
-# (Anverso)
+# (ANVERSO)
 
-**ID:
+## ID: 018      *Obtener Curso Mayor del  Alumno
 
-1. Como usuario quiero poder utilizar el  Curso Mayor del alumno que esta en la Base de Datos
+`Como usuario quiero poder utilizar el  Curso Mayor del alumno que esta en la Base de Datos`
+**Prioridad**: 6
  
-# (Reverso)
+# (REVERSO)
 
-1. Solo muestra un Curso Mayor de un alumno de la Base de Datos.
+* Se retorna el Curso Mayor de un alumno de la Base de Datos.
