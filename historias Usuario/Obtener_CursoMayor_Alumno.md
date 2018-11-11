@@ -2,7 +2,7 @@
 
 ## ID: 018      *Obtener Curso Mayor del  Alumno*
 
-`Como usuario quiero poder utilizar el  Curso Mayor del alumno que esta en la Base de Datos`
+`Como usuario quiero poder utilizar el  Curso Mayor del alumno que está en la Base de Datos`
 
 
 **Prioridad**: 6
