@@ -1,6 +1,6 @@
-# 'Obterner Apellidos del Alumno'
+# *Obterner Apellidos de un  Alumno*
 
-**ID**:
+**ID**:013
 
 **Breve descripcion**:El sistema obtiene el apellido de un alumno
 
@@ -20,14 +20,3 @@
 
 1. La funcion retorna el apellido del alumno introducido anteriormente.
 
-# (Anverso)
-
-**ID**:
-
-1. Como usuario quiero poder utillizar el apellido del alumno que esta en la Base de Datos.
-
-**Prioridad**
-
-# (Reverso)
-
-1. Solo se muestra el apellido de un alumno.
