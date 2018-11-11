@@ -1,11 +1,11 @@
-# 'Obtener Teléfono'
+# *Obtener Teléfono Alumno*
 
-**ID**:
+**ID**:016
 
 **Breve descripcion**:El sistema obtiene el Teléfono de un alumno.
 
 **Acotres principales**:Profesor
-**Actores secundarios**:Sistema
+**Actores secundarios**:Alumno
 
 **Precondiciones**
 
