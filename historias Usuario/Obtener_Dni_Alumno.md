@@ -4,6 +4,10 @@
 
 `Como usuario quiero poder utilizar el Dni del alumno que está en la Base de Datos`
  
+  **Prioridad**: 6
+  
 # (REVERSO)
 
 * Se retorna el Dni de un alumno de la Base de Datos.
+
+
