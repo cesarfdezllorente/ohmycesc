@@ -1,4 +1,4 @@
-# *Obtener Curso Mayor*
+# *Obtener Curso Mayor Alumno*
 
 **ID**:018
 
