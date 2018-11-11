@@ -1,9 +1,11 @@
-# (Anverso)
+# (ANVERSO)
 
-**ID:
+## ID:019   *Obtener email de un Alumno*
 
-1. Como usuario quiero poder utilizar el  Email del alumno que esta en la Base de Datos
+`Como usuario quiero poder utilizar el email del alumno que está en la Base de Datos`
  
-# (Reverso)
+  **Prioridad**: 6
+  
+# (REVERSO)
 
-1. Solo muestra un Email de un alumno de la Base de Datos.
+* Se retorna el email de un alumno de la Base de Datos.
