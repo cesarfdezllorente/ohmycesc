@@ -1,12 +1,12 @@
 
-# (Anverso)
+# (ANVERSO)
 
-**ID**:013
+## **ID**:013        *Obtener Apellidos Alumno*
 
-1. Como usuario quiero poder utilizar el apellido del alumno que esta en la Base de Datos.
+`Como usuario quiero poder utilizar el apellido del alumno que está en la Base de Datos`
 
 **Prioridad**: 6
 
-# (Reverso)
+# (REVERSO)
 
-1. Solo se muestra el apellido de un alumno.
+ * Se retorna los apellidos de un alumno.
