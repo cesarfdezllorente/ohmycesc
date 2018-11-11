@@ -1,9 +1,11 @@
-# (Anverso)
+# (ANVERSO)
 
-**ID:
+## ID:021   *Obtener si un Alumno es lider*
 
-1. Como usuario quiero poder utilizar el Lider del grupo que esta en la Base de Datos
+`Como usuario quiero poder saber si un alumno es lider o no`
  
-# (Reverso)
+  **Prioridad**: 6
+  
+# (REVERSO)
 
-1. Solo muestra el Lider de un solo grupo de la Base de Datos.
+* Se retorna si un alumno de la Base de Datos es lider o no.
