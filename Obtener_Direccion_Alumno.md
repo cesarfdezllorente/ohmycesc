@@ -1,15 +1,15 @@
-# 'Obtener Dirección'
+# *Obtener Dirección Alumno*
 
-**ID**:
+**ID**:017
 
 **Breve descripcion**:El sistema obtiene la Dirección de un alumno.
 
 **Acotres principales**:Profesor
-**Actores secundarios**:Sistema
+**Actores secundarios**:Alumno
 
 **Precondiciones**
 
-1. La Direccióno debe de existir en la base de datos.
+1. La Dirección del Alumno debe de existir en la base de datos.
 
 **Flujo principal**
 
@@ -17,6 +17,6 @@
 
 **Post-Condiciones**:
 
-1. La funcion retorna la Dirección del alumno introducido anteriormente.
+1. La función retorna la Dirección del alumno introducido anteriormente.
 
 
