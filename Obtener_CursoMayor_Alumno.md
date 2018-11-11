@@ -19,12 +19,3 @@
 
 1. La funcion retorna el Curso Mayor del alumno introducido anteriormente.
 
-# (Anverso)
-
-**ID:
-
-1. Como usuario quiero poder utilizar el  Curso Mayor del alumno que esta en la Base de Datos
- 
-# (Reverso)
-
-1. Solo muestra un Curso Mayor de un alumno de la Base de Datos.
