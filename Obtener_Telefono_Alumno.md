@@ -5,6 +5,7 @@
 **Breve descripcion**:El sistema obtiene el Teléfono de un alumno.
 
 **Acotres principales**:Profesor
+
 **Actores secundarios**:Alumno
 
 **Precondiciones**
