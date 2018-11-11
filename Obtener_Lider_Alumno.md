@@ -20,6 +20,10 @@
 
 1. La funcion retorna si el alumno introducido anteriormente es lider o no.
 
+**Flujo alternativo**:
+
+1. Si no se ha establecido aun si es lider o no , la función retornará que no
+
 
 
 
