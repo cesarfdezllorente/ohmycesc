@@ -6,4 +6,4 @@
  
 # (REVERSO)
 
-1. Se retorna la Dirección de un alumno de la Base de Datos.
+* Se retorna la Dirección de un alumno de la Base de Datos.
